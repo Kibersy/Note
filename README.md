@@ -1,2 +1,2 @@
 # Note
-my syudy note  
+my study note  
